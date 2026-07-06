@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Model / cache
+*.faiss
+*.index
+.cache/
+models/
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
